@@ -10,5 +10,5 @@ System.out.println("Ciao, mi dispiace per coloro che non hanno il block num ;( "
 Voglio scrivere in serpentese:
 
 ```python
-print "faccio pena"
+print "Hello world"
 ```
