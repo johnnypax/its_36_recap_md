@@ -13,3 +13,11 @@ La staging area è l'insieme di file che posso collezionare per effettuare una c
 ```bash
 git add .
 ```
+
+## Committment
+Rendo permanenti le mie modifiche all'interno del mio PC.
+
+```bash
+git commit -m "messaggio"
+```
+
