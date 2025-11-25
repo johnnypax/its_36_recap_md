@@ -28,4 +28,16 @@ Per rendere la repository online allineata con la mia locale:
 git push
 ```
 
+***
 
+# Per clonare una repo
+Per clonare una repository:
+
+```bash
+git clone LINK
+```
+
+# Per riportare in locale una repo online
+```bash
+git pull
+```
